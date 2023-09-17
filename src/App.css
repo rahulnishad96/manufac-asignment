@@ -1,0 +1,24 @@
+h2{
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  max-width: 60%;
+  width: 40%;
+  border: 1px solid black;
+  margin: 20px auto;
+  font-weight: 600;
+}
+
+th, tr {
+  text-align: center;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 16px;
+}
+
+
+

@@ -17,8 +17,7 @@ You will also see any lint errors in the console.
 
 ## Project Screenshot
 
-Here is the attached screenshot. To View, please click on [screenshot](https://drive.google.com/file/d/1x6r7i7-gaMEwbNJ4y488BY2tPaHuEzak/view?usp=sharing).
+Here is the attached screenshot. To View, please click on this [link](https://drive.google.com/file/d/1x6r7i7-gaMEwbNJ4y488BY2tPaHuEzak/view?usp=sharing).
 
 
-<img src="https://drive.google.com/file/d/1x6r7i7-gaMEwbNJ4y488BY2tPaHuEzak/view?usp=sharing" alt="Sample Image">
 

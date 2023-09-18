@@ -15,7 +15,6 @@ export function divideByClass(jsonData) {
         myArr[x - 1].push(item);
     });
 
-    console.log(myArr); // Log the result for debugging
     return myArr;
 }
 
